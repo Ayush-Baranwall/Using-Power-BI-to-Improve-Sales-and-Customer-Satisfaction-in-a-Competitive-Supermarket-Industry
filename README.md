@@ -1,0 +1,2 @@
+# Using-Power-BI-to-Improve-Sales-and-Customer-Satisfaction-in-a-Competitive-Supermarket-Industry
+Leveraging Power BI, this project aims to enhance sales and customer satisfaction within the highly competitive supermarket industry. By leveraging data analytics and visualizations, the project aims to gain actionable insights that can drive strategic decisions, optimize sales strategies, and improve overall customer satisfaction levels
