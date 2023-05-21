@@ -75,7 +75,8 @@ To get started with this project, follow these steps:
 Feel free to customize the analysis, add additional features, or contribute to the project according to your requirements.
 ## Acknowledgments
 
-We would like to acknowledge the contributions Kaggle for providing the dataset used in this analysis. Their cooperation and support made this project possible.Link - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+We would like to acknowledge the contribution of Kaggle for providing the dataset used in this analysis. Their cooperation and support made this project possible. 
+Link - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify the codebase according to your needs.
